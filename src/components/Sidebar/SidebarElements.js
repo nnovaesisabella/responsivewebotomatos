@@ -72,7 +72,7 @@ display: flex;
 justify-content:center;
 `;
 export const SidebarRoute= styled(Link)`
- background:#ffc500;
+ background:#e9ba23;
 white-space:nowrap;
 padding:16px 64px;
 color:#fff;

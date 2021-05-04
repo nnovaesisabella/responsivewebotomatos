@@ -10,6 +10,7 @@ export const Nav = styled.nav`
    justify-content:center;
    font-weight:700;
    padding-top:10px;
+   margin-left:auto;
    
 `;
 
@@ -21,11 +22,13 @@ align-items:center;
 text-decoration:none;
 cursor: pointer;
 width:90%;
+margin-left:auto;
 
 @media screen and (max-width:400px){
    position:absolute;
-   top:10px;
+   top:40px;
    left:25px;
+   font-size:1rem;
 
 }`;
 

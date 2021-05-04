@@ -6,6 +6,7 @@ import sweet2 from '../../images/mousemaracuja.jpg';
 import sweet3 from '../../images/tortalimao.jpg';
 
 
+
 //date das pizzas 
 export const productData = [
  {
@@ -33,6 +34,8 @@ export const productData = [
         price: 'R$39,99',
         button: 'Adicionar',
     }
+
+    
 ]
 
 //date dos doces 
